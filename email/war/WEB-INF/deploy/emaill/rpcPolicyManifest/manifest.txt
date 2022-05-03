@@ -1,0 +1,3 @@
+# Module emaill
+# RPC service class, partial path of RPC policy file
+com.exmaple.email.client.MessageService, B7A5D3E256A28615CBDBE77B6DAFC7C9.gwt.rpc

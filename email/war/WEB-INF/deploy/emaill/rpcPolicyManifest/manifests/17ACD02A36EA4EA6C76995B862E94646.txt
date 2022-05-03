@@ -1,0 +1,2 @@
+serviceClass: com.exmaple.email.client.MessageService
+path: B7A5D3E256A28615CBDBE77B6DAFC7C9.gwt.rpc

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+
+<servlet>
+  <servlet-name>com_exmaple_email_client_MessageServiceImpl</servlet-name>
+  <servlet-class>com.exmaple.email.client.MessageServiceImpl</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>com_exmaple_email_client_MessageServiceImpl</servlet-name>
+  <url-pattern>/emaill/message</url-pattern>
+</servlet-mapping>
+
+</web-app>
